@@ -3,6 +3,8 @@
         "examID":202401,
         "name":"Medical Preparation",
         "details":"Medical Preparation",
+        "image":"https://priyopathshala.bluespacejp.com/",
+        
         "totalStudents":85,
         "link":"https://priyopathshala.bluespacejp.com/"
 
@@ -10,6 +12,7 @@
     {  "examID":202402,
         "name":"Engineering Preparation",
         "details":"Medical Preparation",
+        "image":"https://priyopathshala.bluespacejp.com/",
         "totalStudents":52,
         "link":"https://priyopathshala.bluespacejp.com/"
 
@@ -17,6 +20,7 @@
     {  "examID":202403,
         "name":"Varsity Preparation",
         "details":"Medical Preparation",
+        "image":"https://priyopathshala.bluespacejp.com/",
         "totalStudents":42,
         "link":"https://priyopathshala.bluespacejp.com/"
 
