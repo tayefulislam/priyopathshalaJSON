@@ -6,7 +6,8 @@
         "image":"https://priyopathshala.bluespacejp.com/",
         
         "totalStudents":85,
-        "link":"https://priyopathshala.bluespacejp.com/"
+        "link":"https://priyopathshala.bluespacejp.com/",
+        "active":false
 
     },
     {  "examID":202402,
@@ -14,7 +15,8 @@
         "details":"Medical Preparation",
         "image":"https://priyopathshala.bluespacejp.com/",
         "totalStudents":52,
-        "link":"https://priyopathshala.bluespacejp.com/"
+        "link":"https://priyopathshala.bluespacejp.com/",
+        "active":true
 
     },
     {  "examID":202403,
@@ -22,7 +24,8 @@
         "details":"Medical Preparation",
         "image":"https://priyopathshala.bluespacejp.com/",
         "totalStudents":42,
-        "link":"https://priyopathshala.bluespacejp.com/"
+        "link":"https://priyopathshala.bluespacejp.com/",
+        "active":true
 
     }
    
