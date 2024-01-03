@@ -1,0 +1,26 @@
+[
+    {
+        "bookNameID":2024001,
+        "bookName":"রেটিনা ডাইজেস্ট সকল বই",
+        "bookImage":"",
+        "bookDetails":"",
+        "bookLink":"",
+        "bookRoute":"retina-digest"
+    },
+    {
+        "bookNameID":202400,
+        "bookName":"উন্মেষ মেডিকেল প্রশ্নব্যাংক",
+        "bookImage":"",
+        "bookDetails":"",
+        "bookLink":"",
+        "bookRoute":"Unmesh-Medical-Question"
+    },
+    {
+        "bookNameID":2024003,
+        "bookName":"এপেক্স ইংরেজি বই 2022 by মো ওয়ালীউল্লাহ চৌধুরী",
+        "bookImage":"",
+        "bookDetails":"",
+        "bookLink":"",
+        "bookRoute":"Apex-English-For-Medical-University"
+    }
+]
