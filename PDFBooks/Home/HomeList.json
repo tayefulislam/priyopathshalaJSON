@@ -1,0 +1,29 @@
+[
+    {
+        "bookCategoryID":202401,
+        "bookCategoryName":"ইঞ্জিনিয়ারিং",
+        "bookCategoryRoute":"engineering",
+        "bookCategoryImage":""
+
+    },
+    {
+        "bookCategoryID":202402,
+        "bookCategoryName":"মেডিক্যাল",
+        "bookCategoryRoute":"medical",
+        "bookCategoryImage":""
+
+    },
+    {
+        "bookCategoryID":202403,
+        "bookCategoryName":"ভার্সিটি",
+        "bookCategoryRoute":"varsity",
+        "bookCategoryImage":""
+    }
+    ,
+    {
+        "bookCategoryID":202404,
+        "bookCategoryName":"এইচএসসি",
+        "bookCategoryRoute":"hsc",
+        "bookCategoryImage":""
+    }
+]
