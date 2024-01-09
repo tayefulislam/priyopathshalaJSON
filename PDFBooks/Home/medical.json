@@ -1,14 +1,14 @@
 [
     {
-        "bookNameID":2024001,
+        "bookNameID":2024201,
         "bookName":"রেটিনা ডাইজেস্ট সকল বই",
         "bookImage":"",
         "bookDetails":"",
-        "bookLink":"",
+        "bookLink":"https://drive.google.com/drive/folders/1a4O5lFNi4aS0nw43w5AyHN4hc22irs25",
         "bookRoute":"retina-digest"
     },
     {
-        "bookNameID":202400,
+        "bookNameID":2024202,
         "bookName":"উন্মেষ মেডিকেল প্রশ্নব্যাংক",
         "bookImage":"",
         "bookDetails":"",
@@ -16,11 +16,20 @@
         "bookRoute":"Unmesh-Medical-Question"
     },
     {
-        "bookNameID":2024003,
+        "bookNameID":2024203,
         "bookName":"এপেক্স ইংরেজি বই 2022 by মো ওয়ালীউল্লাহ চৌধুরী",
         "bookImage":"",
         "bookDetails":"",
         "bookLink":"",
         "bookRoute":"Apex-English-For-Medical-University"
+    },
+    
+    {
+        "bookNameID":2024204,
+        "bookName":"দাগানো সাধারণ জ্ঞান রেটিনা ডাইজেস্ট 2023",
+        "bookImage":"",
+        "bookDetails":"",
+        "bookLink":"https://drive.google.com/drive/folders/1JtdqsYBQ4cK-FH21GgtYHwYEbQoWzeTJ",
+        "bookRoute":"gk-retina-digest-2023"
     }
 ]
